@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/indonesia"
+        android:icon="@drawable/baseline_android_black_24dp"
+        android:title="@string/indonesia_news" />
+    <item
+        android:id="@+id/australia"
+        android:icon="@drawable/baseline_android_black_24dp"
+        android:title="@string/Australia_news" />
+    <item
+        android:id="@+id/malaysia"
+        android:icon="@drawable/baseline_android_black_24dp"
+        android:title="@string/Malaysia_news" />
+</menu>
